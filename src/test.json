@@ -1,0 +1,9 @@
+
+{
+    "id": 1,
+    "name": "tp link 100",
+    "ip": "192.168.1.101",
+    "description": "Me gustaria poner una descripcion de porque amo/odio a nodejs",
+    "updatedAt": "2018-11-27T02:16:43.979Z",
+    "createdAt": "2018-11-27T02:16:43.979Z"
+}
